@@ -2,6 +2,8 @@ Application 6
 Trevor Carter
 ID: 5036096
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UHv11JBSlXM?si=XQ2wdL3-Z1_Wa9_P/0.jpg)](https://www.youtube.com/watch?v=UHv11JBSlXM?si=XQ2wdL3-Z1_Wa9_P)
+
   This real-time system showcased here is of a ride safety system that could be used within a theme park 
 ride. The system monitors 3 different ways to stop the ride being the speed of the ride (modeled by the
 potentiometer), an emergency stop button manned by someone that is controlling the ride from the ride 
@@ -43,4 +45,5 @@ I wanted the website feature to show if the ride was emergency stopped or not. T
 that shows if a ride is currently down/delayed. This would be a feature that the riders could use, rather than one 
 
 that would be used by operators. 
+
 
