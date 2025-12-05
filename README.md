@@ -4,6 +4,7 @@ ID: 5036096
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UHv11JBSlXM?si=DC1BKMR0I-ziUWnl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
   This real-time system showcased here is of a ride safety system that could be used within a theme park 
 ride. The system monitors 3 different ways to stop the ride being the speed of the ride (modeled by the
 potentiometer), an emergency stop button manned by someone that is controlling the ride from the ride 
@@ -45,6 +46,7 @@ I wanted the website feature to show if the ride was emergency stopped or not. T
 that shows if a ride is currently down/delayed. This would be a feature that the riders could use, rather than one 
 
 that would be used by operators. 
+
 
 
 
